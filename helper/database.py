@@ -9,6 +9,11 @@ dbcol = db["user"]
 
 #Total User 
 
+async def total_users_count(self):
+        count = await self.col.count_documents({})
+        return count
+
+#new
 def total_user():
       user = dbcol.count_documents({})
       return user
