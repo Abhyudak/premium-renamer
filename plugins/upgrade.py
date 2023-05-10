@@ -19,13 +19,13 @@ async def upgrade(bot,update):
 	
 	
 	
-	Pay Using Upi I'd ```matrixtg.famc@idfcbank```
+	Pay Using Upi I'd ```abhyud2019@okicici```
 	
 	After Payment Send Screenshots Of 
         Payment To Admin"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/MatRixBotzadmin")], 
-        			[InlineKeyboardButton("payment link",url = "https://pay.upilink.in/pay/matrixtg.famc@idfcbank")],
+        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/AKLUCASHOOD")], 
+        			[InlineKeyboardButton("payment link",url = "https://pay.upilink.in/pay/abhyud2019@okicici")],
         			[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await update.message.edit(text = text,reply_markup = keybord)
 	
@@ -45,12 +45,12 @@ async def upgradecm(bot,message):
 	Price Rs 55  🇮🇳/🌎 0.67$  per Month
 	
 	
-	Pay Using Upi I'd ```matrixtg.famc@idfcbank```
+	Pay Using Upi I'd ```abhyud2019@okicici```
 	
 	After Payment Send Screenshots Of 
         Payment To Admin"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/MatRixBotzadmin")], 
-        			[InlineKeyboardButton("payment link",url = "https://pay.upilink.in/pay/matrixtg.famc@idfcbank")],
+        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/AKLUCASHOOD")], 
+        			[InlineKeyboardButton("payment link",url = "https://pay.upilink.in/pay/abhyud2019@okicici")],
         			[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await message.reply_text(text = text,reply_markup = keybord)
