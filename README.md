@@ -46,6 +46,8 @@ Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 
 ### 💜 Railway -Simple Way
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/D3nvyb)
+
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Vn9F8D?referralCode=TG81LH)
 ### 💜 Heroku - simplest way
 
