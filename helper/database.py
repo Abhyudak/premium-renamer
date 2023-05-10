@@ -6,15 +6,13 @@ DB_URL = os.environ.get("DB_URL","")
 mongo = pymongo.MongoClient(DB_URL)
 db = mongo[DB_NAME]
 dbcol = db["user"]
-self.col = self.db.user
+
 
 #Total User 
 
-async def total_users_count(self):
-        count = await self.col.count_documents({})
-        return count
 
-#new
+
+
 def total_user():
       user = dbcol.count_documents({})
       return user
