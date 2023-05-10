@@ -6,6 +6,7 @@ DB_URL = os.environ.get("DB_URL","")
 mongo = pymongo.MongoClient(DB_URL)
 db = mongo[DB_NAME]
 dbcol = db["user"]
+self.col = self.db.user
 
 #Total User 
 
