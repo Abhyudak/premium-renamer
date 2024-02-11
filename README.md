@@ -51,7 +51,7 @@ Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Vn9F8D?referralCode=TG81LH)
 ### 💜 Heroku - simplest way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/lntechnical2/RENAMER_BOT_V3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/Abhyudak/RENAMER_BOT_V3)
 
 
 # How To Use Admin Command 
