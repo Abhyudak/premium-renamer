@@ -35,7 +35,7 @@
 
             "description": "Pyrogram String Session Use  @genStr_Bot",
 
-            "required": true
+            "required":
 
         },
 
@@ -89,7 +89,7 @@
 
              "description":"Channel Id Nedd Store Files Get Your channel id from Rose @MissRose_bot",
 
-             "required": true
+             "required": 
 
         }
 
